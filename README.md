@@ -1,0 +1,1 @@
+# C-Cesitli-Sekillerin-Alanini-Hesaplayan-Kod
